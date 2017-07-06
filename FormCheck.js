@@ -58,7 +58,7 @@ Validator.prototype.start = function() {
     }
 }
 
-
+//以下是使用场景
 /*
 var registerForm=document.getElementById('registerForm');
 		
