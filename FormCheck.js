@@ -59,6 +59,7 @@ Validator.prototype.start = function() {
 }
 
 //以下是使用场景
+//本地添加这一行
 /*
 var registerForm=document.getElementById('registerForm');
 		
