@@ -6,3 +6,6 @@
 3. 跑一遍express和mongoose注册
 4. 安装sourcetree
 
+2017-07-19 11:03:42
+### todolist
+1. 科学上网install chrome postman
