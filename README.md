@@ -15,3 +15,8 @@
 ### just do it
 1. nginx 反向代理跨域
 2. node 同步跑程序，获取开放的api
+
+2017-07-21 18:03:08
+### today none
+First do it, then do it right, then do it better.
+Ever tried. Ever failed. No matter. Try again. Fail again. Fail better.
