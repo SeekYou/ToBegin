@@ -20,3 +20,9 @@
 ### today none
 First do it, then do it right, then do it better.
 Ever tried. Ever failed. No matter. Try again. Fail again. Fail better.
+
+2017-07-24 09:40:26
+### after work
+1. nginx如何代理静态资源，与nodejs的对比
+2. mongodb mongoose如何分页
+3. mongodb 文档结构和设计原则，字段规范
