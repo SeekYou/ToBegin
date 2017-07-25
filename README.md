@@ -26,3 +26,8 @@ Ever tried. Ever failed. No matter. Try again. Fail again. Fail better.
 1. nginx如何代理静态资源，与nodejs的对比
 2. mongodb mongoose如何分页
 3. mongodb 文档结构和设计原则，字段规范
+
+2017-07-25 14:33:50
+### ask
+1. npm i 再次添加包的时候，很慢很卡，除了考虑周全一次性添加全部包以外，还能怎么样
+2. go back and try yarn
