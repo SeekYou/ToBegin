@@ -36,3 +36,4 @@ Ever tried. Ever failed. No matter. Try again. Fail again. Fail better.
 2017-07-26 14:35:36
 ### notice
 1. sublime 先把package-disable，然后再remove
+2. 抽时间翻译一下 https://github.com/SeekYou/react-beginner 中的readme.md
