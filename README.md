@@ -32,3 +32,7 @@ Ever tried. Ever failed. No matter. Try again. Fail again. Fail better.
 1. npm i 再次添加包的时候，很慢很卡，除了考虑周全一次性添加全部包以外，还能怎么样
 2. go back and try yarn
 3. install react-devtool
+
+2017-07-26 14:35:36
+### notice
+1. sublime 先把package-disable，然后再remove
