@@ -37,3 +37,8 @@ Ever tried. Ever failed. No matter. Try again. Fail again. Fail better.
 ### notice
 1. sublime 先把package-disable，然后再remove
 2. 抽时间翻译一下 https://github.com/SeekYou/react-beginner 中的readme.md
+
+2017-07-27 11:10:53
+### Thursday did
+1. 增加了几个sublime snippet，创建一个仓库放进去备份
+2. 修改html标签，在自定义设置中，按照 https://github.com/emmetio/emmet/blob/master/lib/snippets.json 中对应着改
