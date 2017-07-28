@@ -42,3 +42,10 @@ Ever tried. Ever failed. No matter. Try again. Fail again. Fail better.
 ### Thursday did
 1. 增加了几个sublime snippet，创建一个仓库放进去备份
 2. 修改html标签，在自定义设置中，按照 https://github.com/emmetio/emmet/blob/master/lib/snippets.json 中对应着改
+
+2017-07-28 10:40:27
+### Experience
+1. Vue SSR and React SSR
+在前后端分离的场景中，利用各自的服务端渲染，来达到SEO和首屏加载的目的，同时最大化利用了http响应。
+2. 创建下个next应用前，看看yarn是不是已经install了express
+3. 下次运行VUe、React 客户端渲染时，降低网速，看看空白期影响多大
