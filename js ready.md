@@ -12,10 +12,15 @@
 
 ### 函数节流
 [节流](http://www.cnblogs.com/ahthw/p/5117570.html)
+[1](http://blog.csdn.net/charlene0824/article/details/52080181)
 
 
 ### 分时函数
 [分时](http://www.cnblogs.com/ahthw/p/5117570.html)
+
+
+### 函数防抖
+[1](http://blog.csdn.net/charlene0824/article/details/52080181)
 
 
 ### 惰性加载函数
