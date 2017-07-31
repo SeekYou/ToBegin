@@ -75,7 +75,14 @@
 
 
 ### 取消默认、阻止冒泡、return false
-[1](http://www.cnblogs.com/dannyxie/p/5642727.html)
+[1](http://www.cnblogs.com/dannyxie/p/5642727.html)  
+
+> stopImmediatePropagation
+
+return false 做了三件事：
+1. e.preventDefault()
+2. e.stopPropagation()
+3. 停止回调函数执行并立即返回
 
 
 ### Jquery 事件绑定 bind on live delegate
