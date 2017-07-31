@@ -80,3 +80,6 @@
 
 ### Jquery 事件绑定 bind on live delegate
 [1](http://www.cnblogs.com/xilipu31/p/4105794.html)
+
+
+no work??
