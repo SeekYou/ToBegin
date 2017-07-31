@@ -60,6 +60,5 @@ Ever tried. Ever failed. No matter. Try again. Fail again. Fail better.
 `select name ,count(name )from dbo.BitAppeal group by  name having count(name )>1`
 
 5. react 的设计理念是什么
-
-
+6. sublime 参数注解插件
 ## 别指望你的代码一直正常工作，在发生错误时有正确的应对总胜过假设代码不会出错。
