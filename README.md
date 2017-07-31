@@ -56,3 +56,7 @@ Ever tried. Ever failed. No matter. Try again. Fail again. Fail better.
 1. remove gitlab project
 2. install phantomjs and add PATH
 3. need 同步一下sublime snippet
+4. SQl 中查看某一字段(like name)中都有谁有重复
+`select name ,count(name )from dbo.BitAppeal group by  name having count(name )>1`
+
+5. react 的设计理念是什么
