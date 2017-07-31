@@ -49,3 +49,10 @@ Ever tried. Ever failed. No matter. Try again. Fail again. Fail better.
 在前后端分离的场景中，利用各自的服务端渲染，来达到SEO和首屏加载的目的，同时最大化利用了http响应。
 2. 创建下个next应用前，看看yarn是不是已经install了express
 3. 下次运行VUe、React 客户端渲染时，降低网速，看看空白期影响多大
+
+
+### change 
+2017-07-31 10:40:06
+1. remove gitlab project
+2. install phantomjs and add PATH
+3. need 同步一下sublime snippet
