@@ -62,3 +62,9 @@ Ever tried. Ever failed. No matter. Try again. Fail again. Fail better.
 5. react 的设计理念是什么
 6. sublime 参数注解插件
 ## 别指望你的代码一直正常工作，在发生错误时有正确的应对总胜过假设代码不会出错。
+
+### happy
+2017-08-01 17:28:36 
+1. express 413  Payload Too Large
+2. mongoose model find _id
+3. 了解一下算法的时间空间复杂度
