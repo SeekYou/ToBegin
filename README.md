@@ -68,3 +68,16 @@ Ever tried. Ever failed. No matter. Try again. Fail again. Fail better.
 1. express 413  Payload Too Large
 2. mongoose model find _id
 3. 了解一下算法的时间空间复杂度
+
+### nothsing
+2017-08-02 13:14:47
+1. 禁止firefox flash 提示
+   ```
+   进入firefox的 about:config  
+   找到extensions.blocklist.enbaled  
+   修改值为false  
+   ```
+2. SSH Key
+   ```
+   ssh-keygen -t rsa -C ""
+   ```
