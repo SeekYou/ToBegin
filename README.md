@@ -86,3 +86,4 @@ Ever tried. Ever failed. No matter. Try again. Fail again. Fail better.
 ### pretty json
 2017-08-03 16:28:17
 1. pretty json  需要命令
+2. 试一下test命令
