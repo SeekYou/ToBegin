@@ -87,3 +87,12 @@ Ever tried. Ever failed. No matter. Try again. Fail again. Fail better.
 2017-08-03 16:28:17
 1. pretty json  需要命令
 2. 试一下test命令
+
+
+### 温故而知新
+2017-08-04 17:58:41
+1. [cleaver幻灯片](https://github.com/jdan/cleaver)
+2. 总结ECMAScript创建对象和继承方式
+3. 整理前后端分离
+4. 重温React+next.js搭配express实现SSR
+5. nodejs的http-proxy-middleware开启代理
