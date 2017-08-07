@@ -96,3 +96,9 @@ Ever tried. Ever failed. No matter. Try again. Fail again. Fail better.
 3. 整理前后端分离
 4. 重温React+next.js搭配express实现SSR
 5. nodejs的http-proxy-middleware开启代理
+
+
+### Keep Moving
+2017-08-07 17:19:52
+1. install DocBlockr into sublime
+2. study Redux  flux是模式，
