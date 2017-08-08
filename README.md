@@ -102,3 +102,9 @@ Ever tried. Ever failed. No matter. Try again. Fail again. Fail better.
 2017-08-07 17:19:52
 1. install DocBlockr into sublime
 2. study Redux  flux是模式，
+
+
+### win+w
+2017-08-08 10:46:26
+1. win+w funny
+2. create-react-app and 深入浅出react和redux
