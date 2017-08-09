@@ -108,3 +108,9 @@ Ever tried. Ever failed. No matter. Try again. Fail again. Fail better.
 2017-08-08 10:46:26
 1. win+w funny
 2. create-react-app and 深入浅出react和redux
+
+### today is nice
+2017-08-09 17:54:10
+1. Redux 
+2. go back to continue todolist demo
+3. about me.md to edit
